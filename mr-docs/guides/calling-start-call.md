@@ -99,11 +99,11 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
 When you're working in Guides, a notification displays when you receive a call from an individual, a group, or from a meeting in progress. You can:
 
-- Select **Video** or say "Guides, Video" to accept the call with your video on, showing the remote collaborators your view.
+- Select **Video** or say "Video" to accept the call with your video on, showing the remote collaborators your view.
 
-- Select **Phone** or say "Guides, Audio" to accept the call with audio only.
+- Select **Phone** or say "Audio" to accept the call with audio only.
 
-- Select **Ignore** or say "Guides, Ignore" to decline the call.
+- Select **Ignore** or say "Ignore" to decline the call.
 
 If you're already in a call or meeting in Guides and receive another call, the new call is automatically declined.
 
