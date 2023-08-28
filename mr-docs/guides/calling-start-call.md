@@ -58,7 +58,7 @@ After you call a federated contact, they appear in your recent contacts list, so
 
 A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user or Dynamics 365 Remote Assist mobile user. For more information, see [Group calls](calling-concepts.md#group-calls).
 
-1. Call one person for a one-to-one call, and then select the **Open participants** button (or say "Guides, Open participants").
+1. Call one person for a one-to-one call, and then select the **Open participants** button (or say "Open participants").
 
     ![Screenshot of one-to-one call with Open participants button highlighted.](media/calling-start-call-4.png "Screenshot of one-to-one call with Open participants button highlighted.")
 
@@ -78,7 +78,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
 ### Mute a participant in a group call
 
-1. Select the **Open participants** button or say "Guides, Open participants."
+1. Select the **Open participants** button or say "Open participants."
 
 1. Select the tile for the participant that you want to mute.
 
@@ -89,7 +89,7 @@ A group call can include a Dynamics 365 Guides user on HoloLens and a Teams user
 
 ### Remove a participant in a group call
 
-1. Select the **Open participants** button or say "Guides, Open participants."
+1. Select the **Open participants** button or say "Open participants."
 
 1. Select the tile for the participant that you want to remove.
 
@@ -112,7 +112,7 @@ If you're already in a call or meeting in Guides and receive another call, the n
 
 ## End a call
 
-- Select the **End call** button or say "Guides, End call."
+- Select the **End call** button or say "End call."
 
 ## Next steps
 
